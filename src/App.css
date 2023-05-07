@@ -1,0 +1,20 @@
+.App {
+  background-color: #ffffff;
+  padding: 0px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App > div {
+  padding: 85px;
+  margin: 20px;
+  border: 13px solid coral;
+  box-sizing: border-box;
+  border-radius: 120px;
+  width: 350px;
+  height: 350px;
+  font-size: 20px;
+  text-align: center;
+}
